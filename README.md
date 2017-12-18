@@ -37,7 +37,7 @@
 
 ##### Assignment 3
 
-		The answer is 0 i.e. after first document with value "monkey" is added, the document 
+		The answer is 1 i.e. after first document with value "monkey" is added, the document 
 		cannot be re inserted because it causes duplicate id error. The duplicate id error comes 
 		from the fact that we are trying to insert the same document with same id in the mongo database.
 		
